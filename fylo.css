@@ -213,7 +213,7 @@ form p{
 footer{
 
     background-color:hsl(216, 53%, 9%);
-    padding: 200px 80px 80px 100px;
+    padding: 150px 0 50px;
 
 }
 
@@ -244,7 +244,7 @@ footer .flex{
 }
 
 .footer-section p{
-    margin:0 0 0 10px;
+    margin:0 0 0 15px;
 }
 
 .footer-section .social-icons {
